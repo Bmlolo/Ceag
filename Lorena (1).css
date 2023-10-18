@@ -1,8 +1,17 @@
 body {
-    background-color: crimson;
-    text-align: center;
+background-color: crimson;
+text-align: center;
 }
 
 h1 {
 color:brown
+}
+.rosa {
+color: azul
+}
+.azul {
+    background-color: pink
+}
+p { 
+font-size: 25px
 }
